@@ -24,6 +24,8 @@ Step 4 - Type "python -m PyInstaller --onefile --noconsole autoclicker.py"
 
 
 
-If you want to donate 
-donate btc at :-bc1q4xu5ezfaem0hraf9mkatkvq0gk5cesnnkg43a7
-Donate ltc at :- ltc1qrl6ns66pxv9y49kn9eku675jyrw6ww43kwl6xp
+If you want to donate
+
+
+don't donate. Just use it for free
+
