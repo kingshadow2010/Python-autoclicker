@@ -3,7 +3,7 @@ python Autoclicker
 
 This is the autoclicker i made for people who are afraid of malware
 i know you won't trust me. So i uploaded source code. 
-If still can't trust. You could compile this python programe on your own
+If still can't trust. You could compile this python programe on your own. first install pynput from cmd. by typing pip install pynput or python -m pip install pynput. then follow the steps
 
 Step 1 - open command prompt
 
